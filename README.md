@@ -1,2 +1,16 @@
-# collagrprojct
-Salesafari is a Flutter-based project aimed at facilitating the buying and selling of local products through an online platform. The project seeks to provide a user-friendly interface where users can view and post products for sale, as well as communicate with potential buyers and sellers.
+# salesafari
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
